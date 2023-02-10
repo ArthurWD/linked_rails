@@ -27,7 +27,6 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'redis'
   spec.add_dependency 'rdf'
   spec.add_dependency 'rdf-serializers', '~> 0.0.10'
-  spec.add_dependency 'rdf-vocab'
   spec.add_dependency 'uri_template'
 
   spec.add_development_dependency 'rails'
